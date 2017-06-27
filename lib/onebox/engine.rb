@@ -180,3 +180,5 @@ require_relative "engine/pdf_onebox"
 require_relative "engine/twitch_clips_onebox"
 require_relative "engine/twitch_stream_onebox"
 require_relative "engine/twitch_video_onebox"
+require_relative "engine/wechat_mp_onebox"
+
