@@ -1,5 +1,3 @@
-require 'json'
-
 module Onebox
   module Engine
     class WechatMpOnebox
