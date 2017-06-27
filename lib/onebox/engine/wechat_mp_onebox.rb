@@ -42,7 +42,6 @@ module Onebox
       end
 
       def data
-        puts(image)
         result = {
           link: extract_script_value("msg_link") || link,
           title: extract_script_value("msg_title"),
